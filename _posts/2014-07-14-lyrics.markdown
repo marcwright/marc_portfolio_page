@@ -10,7 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Wordcloud, Musixmatch API
+description: Wordcloud, Musixmatch, Node, Express
 link: https://songtitle-wordcloud-app.herokuapp.com/
 
 ---

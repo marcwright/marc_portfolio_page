@@ -1,16 +1,16 @@
 ---
-title: D3 Lyrics
+title: D3 Lyric Bubble Cloud
 subtitle: D3 Lyrics
 layout: default
 modal-id: 12
 date: 2014-07-10
-img: tic.png
-thumbnail: tic.png
+img: bubble.png
+thumbnail: bubble.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 
+description: D3, Angular
 link: http://marcwright.github.io/addie-finn-cole/
 
 ---

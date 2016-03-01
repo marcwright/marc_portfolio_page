@@ -10,7 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: Ozymandias Media
 category: Web Development
-description: HTML5, CSS, Parallax, Javascript, jQuery
+description: Parallax, Javascript, jQuery
 link: http://www.ozymandiasmedia.com
 
 ---
