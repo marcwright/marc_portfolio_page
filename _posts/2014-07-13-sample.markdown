@@ -1,0 +1,16 @@
+---
+title: What Can I Bring?
+subtitle: Ask party guests for last minute items
+layout: default
+modal-id: 5
+date: 2014-07-13
+img: wcib390.png
+thumbnail: wcib390.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Ruby + Rails, Google Maps, Twilio
+link: https://whatcanibring.herokuapp.com/
+
+---

@@ -1,0 +1,16 @@
+---
+title: Groovv
+subtitle: A B2B integrated payment system
+layout: default
+modal-id: 2
+date: 2014-07-16
+img: groovv390.png
+thumbnail: groovv390.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: PHP, Wordpress, jQuery, HTML, CSS
+link: http://groovv.appspected.com/
+
+---

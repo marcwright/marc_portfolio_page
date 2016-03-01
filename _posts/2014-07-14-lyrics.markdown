@@ -1,0 +1,16 @@
+---
+title: Lyric Sentiment App
+subtitle: Analysis of the mood of an Artist's lyrics
+layout: default
+modal-id: 6
+date: 2014-07-14
+img: wordcloud.png
+thumbnail: wordcloud.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Wordcloud, Musixmatch API
+link: https://songtitle-wordcloud-app.herokuapp.com/
+
+---

@@ -1,0 +1,16 @@
+---
+title: Of Dogs and Men
+subtitle: Documentary Website
+layout: default
+modal-id: 3
+date: 2014-07-15
+img: dogsandmen390.png
+thumbnail: dogsandmen390.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Wordpress
+link: http://ofdogsandmen.net/
+
+---

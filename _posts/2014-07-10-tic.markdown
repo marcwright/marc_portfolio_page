@@ -1,0 +1,16 @@
+---
+title: JibJab Tic-Tac-Toe
+subtitle: Customizable Tic-Tac-Toe game
+layout: default
+modal-id: 7
+date: 2014-07-10
+img: tic.png
+thumbnail: tic.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: 
+link: http://marcwright.github.io/addie-finn-cole/
+
+---

@@ -28,3 +28,24 @@ View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-th
 
 =========
 For more details, read [documentation](http://jekyllrb.com/)
+
+
+---
+title: D3 Song Titles
+subtitle: D3 Visualization
+layout: default
+modal-id: 8
+date: 2014-07-10
+img: tic.png
+thumbnail: tic.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: D3
+link: 
+
+---
+
+
+
