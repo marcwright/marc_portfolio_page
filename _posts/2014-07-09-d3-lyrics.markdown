@@ -11,6 +11,6 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: D3, Angular
-link: http://marcwright.github.io/addie-finn-cole/
+link: https://songtitle-wordcloud-app.herokuapp.com/
 
 ---
