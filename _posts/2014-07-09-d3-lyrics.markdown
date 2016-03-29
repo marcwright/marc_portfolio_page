@@ -11,6 +11,6 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: D3, Angular
-link: https://songtitle-wordcloud-app.herokuapp.com/
+link: https://lyric-sentiment-app.herokuapp.com/
 
 ---
