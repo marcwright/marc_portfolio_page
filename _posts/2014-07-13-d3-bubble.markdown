@@ -3,7 +3,7 @@ title: D3 Lyric Bubble Cloud
 subtitle: D3 Lyrics
 layout: default
 modal-id: 12
-date: 2014-07-10
+date: 2014-07-14
 img: bubble.png
 thumbnail: bubble.png
 alt: image-alt

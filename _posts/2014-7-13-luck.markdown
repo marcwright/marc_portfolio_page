@@ -1,0 +1,16 @@
+---
+title: Press Your Luck
+subtitle: App based on the game show
+layout: default
+modal-id: 13
+date: 2014-07-13
+img: luck.png
+thumbnail: luck.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: CSS Sprites, Javascript
+link: https://marcwright.github.io/press-your-luck//
+
+---
