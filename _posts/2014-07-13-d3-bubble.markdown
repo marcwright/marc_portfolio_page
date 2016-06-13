@@ -1,16 +1,16 @@
 ---
-title: D3 Lyric Bubble Cloud
-subtitle: D3 Lyrics
+title: Senti-Lyrics
+subtitle: D3 Song Lyric Sentiment Analysis
 layout: default
 modal-id: 12
-date: 2014-07-14
-img: bubble.png
-thumbnail: bubble.png
+date: 2014-07-15
+img: sentilyrics390.png
+thumbnail: sentilyrics390.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: D3, Angular
-link: https://lyric-sentiment-app.herokuapp.com/
+description: D3, Ajax, Express
+link: https://sentilyrics.herokuapp.com/
 
 ---
